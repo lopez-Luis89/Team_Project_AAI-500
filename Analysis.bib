@@ -47,3 +47,10 @@ With these results, we failed to reject the Null Hypotheses, there is no associa
 in starting a marketing campaign to push lowe sold products with the same design to all channels and regions, without the need to adjust for specific targeted marketing.
 
 
+
+Since we know that fresh is the most dominat product on all three regions and both channel 1 and channel 2, it will be beneficial for us to predict the second most consumed product
+which are groceries. We can predict howm muc groceries are going to be consumed based ont he correlated product, detergents and paper. Detergents and paper are also correlated to milk.
+Seems like people often purchase groceries, milk and detergent and paper in conjunction but we found by evaluating our ordeniary least square model against a general linear model  with the 
+Gamma family and identity link function the our AIC result was better fit using the GLM with only the explanatory variable Detergents and Paper. With this model you will be able to
+over-stock in case there is a sudden increase in detergents and paper. It is worth noting that since detergents and paper are also correlated with milk, you should expect a  more aggressive
+increase of consumption on detergents and paper along with groceries.
