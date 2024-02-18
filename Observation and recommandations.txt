@@ -1,0 +1,48 @@
+1-3, 1-4
+
+Region 3 has the highest total sales across all product categories at 73% of total sales. Focus marketing efforts here for its sales potential..
+Region 1 has the second highest total sales at 16% of total sales. It should also receive marketing attention.
+Region 2 has the smallest share of total sales at 10%. It is a lower priority for marketing.
+Fresh and Grocery lead sales in all regions. Prioritize marketing campaigns toward these categories.
+
+=======================================================================
+
+1-6:
+On average, customers spend the most on Fresh Food and Groceries. They spend a good amount on Milk and Frozen Food too. Marketing should focus more on these categories since customers buy them more.
+Customers buy very different amounts of each product. Some buy a lot, some buy only a little bit. Marketing should have offers for all customer groups - those who buy little, medium amounts, and large amounts.
+A small number of customers spend a huge amount in some categories. These customers are very valuable. The store should have special VIP rewards to keep these big spenders happy.
+
+=======================================================================
+1-8:
+
+The analysis shows a strong connection between spending on groceries and spending on detergents and paper products. Customers who put more in their grocery carts also tend to buy more laundry detergent, paper towels, and other cleaning supplies. This makes intuitive sense - the more you cook and prepare food at home, the more you need supplies to keep your home clean.
+
+We also see that milk purchases are closely linked to grocery and detergent/paper spending. When customers buy more milk, they also spend more on other grocery staples and home cleaning products. Milk is a common purchase for most households, so higher milk spending likely indicates overall higher grocery spending.
+
+Recommendations:
+Offer cross-promotions linking grocery and home cleaning staples to reflect how customers buy these together. For example, "Spend $50 on Grocery and Get $5 Off Detergent"
+Position milk where shoppers add a lot to their overall grocery carts.
+
+=======================================================================
+1-11:
+Customers' behaviors and product spending follow predictable patterns that can be modeled mathematically. This allows reliable sales predictions.
+The models show most customers spend around typical averages, but some spend much less, and some spend way more.
+
+=======================================================================
+1-14:
+Customers show different patterns of spending across categories. Most of them have moderate spending amounts, some spending very little, and a few spending large amount.
+Spending on certain product categories is proportional, with customers who spend more on groceries also spending more on related items like cleaning items.
+The business strategy should focus on regular shoppers and rewards programs for high-spenders, along with bundled promotions for related products like groceries and detergents.
+=======================================================================
+
+1-15:
+The residual and normal Q-Q plots verify that the linear model has properly fitted the grocery spending data with no major abnormal assumptions. The errors and residuals indicate the model is trustworthy for insights and predictions.
+=======================================================================
+
+1-17:
+the prediction dots and actual spending line are matching closely
+the model predicts pretty accurately for shoppers who spend around average. The dots align with the line in the middle.
+
+=======================================================================
+1-18
+The residuals plot verifies the model fits well for average customer spending amounts in the majority middle range.
